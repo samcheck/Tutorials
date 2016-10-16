@@ -1,2 +1,5 @@
 # ignore the standard online materials
 automate_online-materials/
+
+# ignore txt test files
+*.txt
