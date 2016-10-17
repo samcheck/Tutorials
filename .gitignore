@@ -1,5 +1,9 @@
 # ignore the standard online materials
 automate_online-materials/
 
-# ignore txt test files
+# ignore test/data scratch files
 *.txt
+*.json
+*.xml
+*.xls
+*.xlsx
