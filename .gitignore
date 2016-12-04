@@ -1,0 +1,10 @@
+# ignore the standard online materials
+automate_online-materials/
+
+# ignore test/data scratch files
+*.txt
+*.json
+*.xml
+*.xls
+*.xlsx
+*.csv
